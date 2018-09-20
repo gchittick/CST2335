@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
-    <string name="hello_messsage">Canadain English</string>
+    <string name="app_name">Lab2</string>
+    <string name="hello_messsage">French</string>
     <string name="ButtonText">I\'m a button</string>
     <string name="login">Login</string>
     <string name="password">Password</string>
